@@ -777,6 +777,8 @@ do
         },
       },
     },
+    ruby_lsp = {},
+    solargraph = {},
   }
 
   vim.pack.add {
